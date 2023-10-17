@@ -1,6 +1,4 @@
----
-title: Semillero Ares
----
+# Lista de proyectos
 
 Lista de proyecto del Semillero ARES en Github
 
